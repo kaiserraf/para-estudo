@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*reset básico*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*estilos gerais*/
+header {
+    background-image: url(Design\ sem\ nome.jpg);
+    background-position: center;
+    text-align: center;
+}
+
+body {
+    font-family: "Oswald";
+    color: #f4f0ea;
+    background-color: #212121;
+}
+
+/*navegação no site*/
+.navegation {
+    background-color: black;
+    padding: 1rem;
+}
+
+/*lista de navegação*/
+ol {
+    list-style-type: none;
+    text-align: center;
+}
+
+ol li {
+    display: inline;
+    padding: 1rem;
+}
+
+ol li a {
+    color: #f4f0ea;
+    text-decoration: none;
+}
+
+ol li a:hover {
+    text-decoration: underline;
+}
+
+/*sobre nós*/
+
+/*nossos funcionarios*/
+
+/*nossos serviços*/
+
+/*contato*/
+
+/*login de funcionario*/
+
+.lgn {
+    border-radius: 5px;
+}
